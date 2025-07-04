@@ -2,9 +2,9 @@
 
 ## Overview
 
-The **U.S. Navy Retirement Navigator** is a CustomGPT assistant designed to help Sailors transition from active duty into retirement. Built on the [*Navy Retirement & Separation Resource Guide*](https://www.navyretirementguide.com) by [CAPT Patrick Kulakowski, USN (Ret.)](https://www.linkedin.com/in/patrick-kulakowski/)**—used with permission—** this GPT answers questions on pay, benefits, healthcare, VA processes, and more.
+The **U.S. Navy Retirement Navigator** is a CustomGPT assistant designed to help Sailors transition from active duty into retirement. Built on the [*Navy Retirement & Separation Resource Guide (July 2025)*](https://www.navyretirementguide.com) by [CAPT Patrick Kulakowski, USN (Ret.)](https://www.linkedin.com/in/patrick-kulakowski/)**—used with permission—** this GPT answers questions on pay, benefits, healthcare, VA processes, and more.
 
-Link [https://chatgpt.com/g/g-68561e2a23f08191829d582d8656cbc9-u-s-navy-retirement-navigator](https://chatgpt.com/g/g-68561e2a23f08191829d582d8656cbc9-u-s-navy-retirement-navigator)
+Link [https://chatgpt.com/g/g-686851441a48819199de69c54ce4c24d-u-s-navy-retirement-navigator](https://chatgpt.com/g/g-686851441a48819199de69c54ce4c24d-u-s-navy-retirement-navigator)
 
 ## **U.S. Navy Retirement Navigator** CustomGPT Features
 
