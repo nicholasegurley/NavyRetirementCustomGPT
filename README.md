@@ -28,7 +28,9 @@ This repository provides:
 
 Special thanks to [CAPT Patrick Kulakowski, USN (Ret.)](https://www.linkedin.com/in/patrick-kulakowski/), for permission to adapt material from his [*Navy Retirement & Separation Resource Guide*](https://www.navyretirementguide.com).
 
-Special thanks to all of the beta testers whose inputs was invaluable to improving the released version.
+Special thanks to all of the beta testers whose inputs was invaluable to improving the released version, including:
+[Eric E. Meyers](https://www.linkedin.com/in/eric-meyers-9640297a/)
+And many more!
 
 ## Licensing
 
